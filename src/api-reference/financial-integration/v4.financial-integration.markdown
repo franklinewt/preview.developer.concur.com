@@ -1179,7 +1179,8 @@ Name|Type|Format|Description
          "expenseTypeCode": "LODNG",
          "cardStatementPeriodStartDate": null,
          "cardStatementPeriodEndDate": null,
-         "reportEntryPatKey": "CASH"
+         "reportEntryPatKey": "CASH",
+         "merchantTaxId": null
       }
    ],
    "cashAdvanceApplication": [
